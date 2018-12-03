@@ -2,7 +2,7 @@
 
 defined('DS') ? null : define('DS', DIRECTORY_SEPARATOR);
 defined('SITE_ROOT') ? null :
-define('SITE_ROOT', 'D:' . DS .'xampp'. DS .'htdocs'. DS .'php'. DS.'photogallery');
+define('SITE_ROOT', 'D:' . DS .'xampp'. DS .'htdocs'. DS.'photogallery');
 
 defined('LIB_PATH') ? null : define('LIB_PATH', SITE_ROOT.DS.'includes');
 

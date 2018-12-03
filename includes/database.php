@@ -23,11 +23,11 @@ class MySQLDatabase {
   }
 
   public function open_connection() {
-        $this->con = mysqli_connect(DB_SERVER, DB_USER, DB_PASS);
+        $this->con = mysqli_connect(DB_SERVER , DB_USER , DB_PASS);
         if(!$this->con) {
           die('Couldn\'t connect to database' . mysqli_error() );
         } else {
-          $db = mysqli_select_db( $this->con, DB_NAME);
+          $db = mysqli_select_db( $this->con , DB_NAME );
           if(!$db){
             die('Couldn\'t use selected database' . mysqli_error());
           }

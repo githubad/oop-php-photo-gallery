@@ -1,7 +1,1 @@
-2018-06-29 01:56:30 Logs Cleared: by User ID 2 
-2018-06-29 01:56:38 Login: a logged in. 
-2018-06-29 19:42:05 Login: adnan logged in. 
-2018-06-29 19:46:12 Login: adnan logged in. 
-2018-06-29 19:49:12 Login: adnan logged in. 
-2018-06-29 19:53:17 Login: adnan logged in. 
-2018-07-06 23:30:50 Login: adnan logged in. 
+2018-12-03 09:03:11 Logs Cleared: by User ID 1 
